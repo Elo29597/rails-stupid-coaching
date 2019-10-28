@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+input[type = submit]{
+  padding: 15px;
+  background-color:   #8FBC8F;
+
+  border-radius: 10px;
+}
+
+input[type = submit]:hover{
+  padding: 15px;
+  background-color:     #B22222;
+
+  border-radius: 10px;
+}
+
+input[type = text]{
+background-color: #E6E6FA;
+ border-radius: 10px;
+  }
